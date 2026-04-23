@@ -16,3 +16,5 @@ beautifulsoup4
 gunicorn
 openpyxl
 nsepy
+statsmodels
+lxml

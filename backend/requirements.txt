@@ -130,7 +130,6 @@ orjson
 overrides
 packaging
 pandas
-pandas-ta
 passlib
 pathspec
 patsy

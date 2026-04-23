@@ -1,5 +1,6 @@
 flask
 flask-cors
+flask-jwt-extended
 requests
 python-dotenv
 pandas
@@ -9,12 +10,9 @@ scikit-learn
 prophet
 xgboost
 groq
-python-jose
 APScheduler
 yfinance
 beautifulsoup4
 gunicorn
-werkzeug
-jinja2
-itsdangerous
-click
+openpyxl
+nsepy

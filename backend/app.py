@@ -36,7 +36,13 @@ app.register_blueprint(integration_bp)
 from flask_route_with_memory import memory_bp
 app.register_blueprint(memory_bp)
 
+# ── Root ──────────────────────────────────────────────────────────────────────
+@app.route('/')
+def home():
+    return {'message': 'Rizer AI API is Live!', 'endpoints': ['/api/health', '/api/data/live']}
+
 # ── Health check ──────────────────────────────────────────────────────────────
+@app.route('/health')
 @app.route('/api/health')
 def health():
     return {'status': 'ok', 'message': 'Rizer AI backend running'}

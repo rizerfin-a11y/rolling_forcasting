@@ -17,7 +17,7 @@ const RIZER_COLORS = {
     Gray: '#95A5A6'
 };
 
-const API_BASE = 'http://127.0.0.1:5000/api';
+const API_BASE = 'https://rizer-backend-4kvl.onrender.com/api';
 
 type TabName = 'Drivers' | 'Dimensions' | 'Rolling' | 'Budget' | 'Connect';
 

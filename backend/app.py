@@ -1,11 +1,13 @@
 # backend/app.py
-# Flask entry point — registers all blueprints and starts server
-# Run: python app.py
-
+print("--- BOOTING RIZER AI ENGINE ---")
 import os
+print("Importing Flask...")
 from flask import Flask
+print("Importing CORS...")
 from flask_cors import CORS
+print("Importing JWT...")
 from flask_jwt_extended import JWTManager
+print("Importing Dotenv...")
 from dotenv import load_dotenv
 
 load_dotenv()  # loads .env file

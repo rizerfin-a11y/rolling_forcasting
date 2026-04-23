@@ -1,0 +1,20 @@
+
+────────────────────────────────────────────────────────────
+  Question: what is total revenue in 2024?
+────────────────────────────────────────────────────────────
+  📚 No relevant chunks found in vector store
+  [L1] Trying Groq llama-3.3-70b...
+⚠ (low quality) → escalating to Gemini
+  [L2] Trying Gemini 1.5-flash...
+  ✗ Gemini error: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+⚠ (failed) → escalating to Anthropic
+  [L3] Trying Anthropic Claude...
+  ✗ Anthropic error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaKKTdmVjAhsLnQyW9xuA'}
+⚠ (failed)
+  [L4] Using best available answer...
+  → Using Groq llama-3.3-70b (best available)
+
+  ✅ Answered by: Groq llama-3.3-70b (best available) (Level 4)
+  📊 Confidence: low | Relevance: 0.000
+  💾 Saved to chat_history.json
+────────────────────────────────────────────────────────────

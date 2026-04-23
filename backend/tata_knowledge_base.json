@@ -1,0 +1,252 @@
+[
+  {
+    "id": "tata_fy_2015_16",
+    "type": "yearly_summary",
+    "fiscal_year": "2015-16",
+    "text": "Tata Motors FY 2015-16 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 281,078 Crores (Rs 28,107,844 Lakhs)\n- Standalone Revenue (India only): Rs 48,780 Crores\n- JLR Revenue: GBP 22,208 Million\n- Consolidated Profit Before Tax (PBT): Rs 13,981 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs 11,024 Crores [PROFIT]\n- Standalone PAT: Rs 234 Crores\n- JLR PBT: GBP 1,557 Million\n- Net Profit Margin (Consolidated): 3.92%\n- Depreciation and Amortisation: Rs 17,014 Crores (6.0% of revenue)\n- Consolidated Tax: Rs 2,873 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2015-16",
+      "data_type": "annual_summary",
+      "is_profitable": true,
+      "revenue_cr": 281078.44,
+      "pat_cr": 11023.75
+    }
+  },
+  {
+    "id": "tata_fy_2016_17",
+    "type": "yearly_summary",
+    "fiscal_year": "2016-17",
+    "text": "Tata Motors FY 2016-17 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 275,247 Crores (Rs 27,524,666 Lakhs)\n- Standalone Revenue (India only): Rs 50,079 Crores\n- JLR Revenue: GBP 24,339 Million\n- Consolidated Profit Before Tax (PBT): Rs 9,315 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs 7,454 Crores [PROFIT]\n- Standalone PAT: Rs -2,480 Crores\n- JLR PBT: GBP 1,573 Million\n- Net Profit Margin (Consolidated): 2.71%\n- Depreciation and Amortisation: Rs 17,905 Crores (6.5% of revenue)\n- Consolidated Tax: Rs 3,251 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2016-17",
+      "data_type": "annual_summary",
+      "is_profitable": true,
+      "revenue_cr": 275246.66,
+      "pat_cr": 7454.36
+    }
+  },
+  {
+    "id": "tata_fy_2017_18",
+    "type": "yearly_summary",
+    "fiscal_year": "2017-18",
+    "text": "Tata Motors FY 2017-18 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 296,298 Crores (Rs 29,629,823 Lakhs)\n- Standalone Revenue (India only): Rs 61,182 Crores\n- JLR Revenue: GBP 25,786 Million\n- Consolidated Profit Before Tax (PBT): Rs 11,155 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs 8,989 Crores [PROFIT]\n- Standalone PAT: Rs -1,035 Crores\n- JLR PBT: GBP 1,512 Million\n- Net Profit Margin (Consolidated): 3.03%\n- Depreciation and Amortisation: Rs 21,554 Crores (7.3% of revenue)\n- Consolidated Tax: Rs 4,342 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2017-18",
+      "data_type": "annual_summary",
+      "is_profitable": true,
+      "revenue_cr": 296298.23,
+      "pat_cr": 8988.91
+    }
+  },
+  {
+    "id": "tata_fy_2018_19",
+    "type": "yearly_summary",
+    "fiscal_year": "2018-19",
+    "text": "Tata Motors FY 2018-19 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 304,904 Crores (Rs 30,490,371 Lakhs)\n- Standalone Revenue (India only): Rs 71,757 Crores\n- JLR Revenue: GBP 24,214 Million\n- Consolidated Profit Before Tax (PBT): Rs -31,371 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs -28,826 Crores [LOSS]\n- Standalone PAT: Rs 2,021 Crores\n- JLR PBT: GBP -3,629 Million\n- Net Profit Margin (Consolidated): -9.45%\n- Depreciation and Amortisation: Rs 23,591 Crores (7.7% of revenue)\n- Consolidated Tax: Rs -2,437 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2018-19",
+      "data_type": "annual_summary",
+      "is_profitable": false,
+      "revenue_cr": 304903.71,
+      "pat_cr": -28826.23
+    }
+  },
+  {
+    "id": "tata_fy_2019_20",
+    "type": "yearly_summary",
+    "fiscal_year": "2019-20",
+    "text": "Tata Motors FY 2019-20 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 264,041 Crores (Rs 26,404,112 Lakhs)\n- Standalone Revenue (India only): Rs 45,311 Crores\n- JLR Revenue: GBP 22,984 Million\n- Consolidated Profit Before Tax (PBT): Rs -10,580 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs -12,071 Crores [LOSS]\n- Standalone PAT: Rs -7,290 Crores\n- JLR PBT: GBP -422 Million\n- Net Profit Margin (Consolidated): -4.57%\n- Depreciation and Amortisation: Rs 21,425 Crores (8.1% of revenue)\n- Consolidated Tax: Rs 395 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2019-20",
+      "data_type": "annual_summary",
+      "is_profitable": false,
+      "revenue_cr": 264041.12,
+      "pat_cr": -12070.85
+    }
+  },
+  {
+    "id": "tata_fy_2020_21",
+    "type": "yearly_summary",
+    "fiscal_year": "2020-21",
+    "text": "Tata Motors FY 2020-21 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 252,438 Crores (Rs 25,243,794 Lakhs)\n- Standalone Revenue (India only): Rs 47,874 Crores\n- JLR Revenue: GBP 19,731 Million\n- Consolidated Profit Before Tax (PBT): Rs -10,474 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs -13,451 Crores [LOSS]\n- Standalone PAT: Rs -2,395 Crores\n- JLR PBT: GBP -861 Million\n- Net Profit Margin (Consolidated): -5.33%\n- Depreciation and Amortisation: Rs 23,547 Crores (9.3% of revenue)\n- Consolidated Tax: Rs 2,542 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2020-21",
+      "data_type": "annual_summary",
+      "is_profitable": false,
+      "revenue_cr": 252437.94,
+      "pat_cr": -13451.39
+    }
+  },
+  {
+    "id": "tata_fy_2021_22",
+    "type": "yearly_summary",
+    "fiscal_year": "2021-22",
+    "text": "Tata Motors FY 2021-22 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 281,507 Crores (Rs 28,150,725 Lakhs)\n- Standalone Revenue (India only): Rs 47,924 Crores\n- JLR Revenue: GBP 18,320 Million\n- Consolidated Profit Before Tax (PBT): Rs -7,003 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs -11,441 Crores [LOSS]\n- Standalone PAT: Rs -1,391 Crores\n- JLR PBT: GBP -455 Million\n- Net Profit Margin (Consolidated): -4.06%\n- Depreciation and Amortisation: Rs 24,836 Crores (8.8% of revenue)\n- Consolidated Tax: Rs 4,231 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2021-22",
+      "data_type": "annual_summary",
+      "is_profitable": false,
+      "revenue_cr": 281507.25,
+      "pat_cr": -11441.47
+    }
+  },
+  {
+    "id": "tata_fy_2022_23",
+    "type": "yearly_summary",
+    "fiscal_year": "2022-23",
+    "text": "Tata Motors FY 2022-23 Annual Financial Summary:\n- Consolidated Revenue (Turnover incl. Other Income): Rs 350,600 Crores (Rs 35,060,015 Lakhs)\n- Standalone Revenue (India only): Rs 66,578 Crores\n- JLR Revenue: GBP 22,809 Million\n- Consolidated Profit Before Tax (PBT): Rs 3,058 Crores\n- Consolidated Profit After Tax (PAT / Net Profit): Rs 2,414 Crores [PROFIT]\n- Standalone PAT: Rs 2,728 Crores\n- JLR PBT: GBP 97 Million\n- Net Profit Margin (Consolidated): 0.69%\n- Depreciation and Amortisation: Rs 24,860 Crores (7.1% of revenue)\n- Consolidated Tax: Rs 704 Crores",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2022-23",
+      "data_type": "annual_summary",
+      "is_profitable": true,
+      "revenue_cr": 350600.15,
+      "pat_cr": 2414.29
+    }
+  },
+  {
+    "id": "tata_yoy_2015_16_2016_17",
+    "type": "yoy_comparison",
+    "fiscal_year": "2016-17",
+    "text": "Tata Motors Revenue Comparison FY 2015-16 vs FY 2016-17:\n- Revenue decreased by Rs 5,832 Crores (-2.1%)\n- Previous year (2015-16): Rs 281,078 Crores\n- Current year (2016-17): Rs 275,247 Crores\n- PAT change: from Rs 11,024 Cr to Rs 7,454 Cr\n- JLR revenue: GBP 22,208Mn → GBP 24,339Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2016-17",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": -2.07
+    }
+  },
+  {
+    "id": "tata_yoy_2016_17_2017_18",
+    "type": "yoy_comparison",
+    "fiscal_year": "2017-18",
+    "text": "Tata Motors Revenue Comparison FY 2016-17 vs FY 2017-18:\n- Revenue increased by Rs 21,052 Crores (+7.6%)\n- Previous year (2016-17): Rs 275,247 Crores\n- Current year (2017-18): Rs 296,298 Crores\n- PAT change: from Rs 7,454 Cr to Rs 8,989 Cr\n- JLR revenue: GBP 24,339Mn → GBP 25,786Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2017-18",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": 7.65
+    }
+  },
+  {
+    "id": "tata_yoy_2017_18_2018_19",
+    "type": "yoy_comparison",
+    "fiscal_year": "2018-19",
+    "text": "Tata Motors Revenue Comparison FY 2017-18 vs FY 2018-19:\n- Revenue increased by Rs 8,605 Crores (+2.9%)\n- Previous year (2017-18): Rs 296,298 Crores\n- Current year (2018-19): Rs 304,904 Crores\n- PAT change: from Rs 8,989 Cr to Rs -28,826 Cr\n- JLR revenue: GBP 25,786Mn → GBP 24,214Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2018-19",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": 2.9
+    }
+  },
+  {
+    "id": "tata_yoy_2018_19_2019_20",
+    "type": "yoy_comparison",
+    "fiscal_year": "2019-20",
+    "text": "Tata Motors Revenue Comparison FY 2018-19 vs FY 2019-20:\n- Revenue decreased by Rs 40,863 Crores (-13.4%)\n- Previous year (2018-19): Rs 304,904 Crores\n- Current year (2019-20): Rs 264,041 Crores\n- PAT change: from Rs -28,826 Cr to Rs -12,071 Cr\n- JLR revenue: GBP 24,214Mn → GBP 22,984Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2019-20",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": -13.4
+    }
+  },
+  {
+    "id": "tata_yoy_2019_20_2020_21",
+    "type": "yoy_comparison",
+    "fiscal_year": "2020-21",
+    "text": "Tata Motors Revenue Comparison FY 2019-20 vs FY 2020-21:\n- Revenue decreased by Rs 11,603 Crores (-4.4%)\n- Previous year (2019-20): Rs 264,041 Crores\n- Current year (2020-21): Rs 252,438 Crores\n- PAT change: from Rs -12,071 Cr to Rs -13,451 Cr\n- JLR revenue: GBP 22,984Mn → GBP 19,731Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2020-21",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": -4.39
+    }
+  },
+  {
+    "id": "tata_yoy_2020_21_2021_22",
+    "type": "yoy_comparison",
+    "fiscal_year": "2021-22",
+    "text": "Tata Motors Revenue Comparison FY 2020-21 vs FY 2021-22:\n- Revenue increased by Rs 29,069 Crores (+11.5%)\n- Previous year (2020-21): Rs 252,438 Crores\n- Current year (2021-22): Rs 281,507 Crores\n- PAT change: from Rs -13,451 Cr to Rs -11,441 Cr\n- JLR revenue: GBP 19,731Mn → GBP 18,320Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2021-22",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": 11.52
+    }
+  },
+  {
+    "id": "tata_yoy_2021_22_2022_23",
+    "type": "yoy_comparison",
+    "fiscal_year": "2022-23",
+    "text": "Tata Motors Revenue Comparison FY 2021-22 vs FY 2022-23:\n- Revenue increased by Rs 69,093 Crores (+24.5%)\n- Previous year (2021-22): Rs 281,507 Crores\n- Current year (2022-23): Rs 350,600 Crores\n- PAT change: from Rs -11,441 Cr to Rs 2,414 Cr\n- JLR revenue: GBP 18,320Mn → GBP 22,809Mn",
+    "metadata": {
+      "company": "Tata Motors",
+      "period": "2022-23",
+      "data_type": "yoy_comparison",
+      "revenue_growth_pct": 24.54
+    }
+  },
+  {
+    "id": "tata_revenue_trend_8yr",
+    "type": "trend",
+    "text": "Tata Motors 8-Year Consolidated Revenue Trend:\n- FY 2015-16: Rs 281,078 Crores\n- FY 2016-17: Rs 275,247 Crores (-2.1% YoY)\n- FY 2017-18: Rs 296,298 Crores (+7.6% YoY)\n- FY 2018-19: Rs 304,904 Crores (+2.9% YoY)\n- FY 2019-20: Rs 264,041 Crores (-13.4% YoY)\n- FY 2020-21: Rs 252,438 Crores (-4.4% YoY)\n- FY 2021-22: Rs 281,507 Crores (+11.5% YoY)\n- FY 2022-23: Rs 350,600 Crores (+24.5% YoY)\n\nPeak revenue: FY 2022-23 at Rs 350,600 Crores\nLowest revenue: FY 2020-21 at Rs 252,438 Crores\n8-year average: Rs 288,264 Crores\nTotal growth (2015-16 to 2022-23): +24.7%",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "revenue_trend"
+    }
+  },
+  {
+    "id": "tata_profit_loss_history",
+    "type": "trend",
+    "text": "Tata Motors Profit and Loss History (Consolidated PAT):\n- FY 2015-16: Rs 11,024 Crores [PROFIT]\n- FY 2016-17: Rs 7,454 Crores [PROFIT]\n- FY 2017-18: Rs 8,989 Crores [PROFIT]\n- FY 2018-19: Rs -28,826 Crores [LOSS]\n- FY 2019-20: Rs -12,071 Crores [LOSS]\n- FY 2020-21: Rs -13,451 Crores [LOSS]\n- FY 2021-22: Rs -11,441 Crores [LOSS]\n- FY 2022-23: Rs 2,414 Crores [PROFIT]\n\nProfit years: 2015-16, 2016-17, 2017-18, 2022-23\nLoss years: 2018-19, 2019-20, 2020-21, 2021-22\nBiggest single-year loss: Rs -28,826 Crores in FY 2018-19\nTata Motors returned to profitability in FY 2022-23 after 4 consecutive loss years",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "profit_trend"
+    }
+  },
+  {
+    "id": "tata_margin_history",
+    "type": "ratio",
+    "text": "Tata Motors Net Profit Margin History (Consolidated %):\n- FY 2015-16: +3.92%\n- FY 2016-17: +2.71%\n- FY 2017-18: +3.03%\n- FY 2018-19: -9.45%\n- FY 2019-20: -4.57%\n- FY 2020-21: -5.33%\n- FY 2021-22: -4.06%\n- FY 2022-23: +0.69%\n\nBest margin: FY 2015-16 at 3.92%\nWorst margin: FY 2018-19 at -9.45%\nNote: Negative margins from 2018-19 to 2021-22 driven by JLR writedowns and COVID",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "margin_trend"
+    }
+  },
+  {
+    "id": "tata_business_context",
+    "type": "context",
+    "text": "Tata Motors Business Structure and Key Facts:\n- TWO main segments: Standalone India operations + JLR (Jaguar Land Rover UK)\n- India standalone: Commercial vehicles (trucks, buses) + EVs (Nexon EV, Punch EV, Tiago EV)\n- JLR: Luxury brand (Jaguar + Land Rover), reports in GBP, headquartered in UK\n- JLR is the LARGER revenue contributor in absolute terms\n- 4-year loss period (2018-2022) caused by: JLR impairment writedown (Rs 27,800 Cr in FY19), Brexit, COVID-19, chip shortage\n- FY 2022-23: First consolidated profit in 5 years — JLR recovered, India EV sales grew\n- Standalone data from FY 2021-22 excludes PV business (transferred to Tata Motors Passenger Vehicles Ltd)\n- Data source: Tata Motors Financial Statistics History (official company document)\n- All consolidated figures: Ind AS accounting standard. JLR: IFRS standard.",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "business_context"
+    }
+  },
+  {
+    "id": "tata_loss_period_explanation",
+    "type": "context",
+    "text": "Why Tata Motors Had Losses from FY 2018-19 to FY 2021-22:\n1. FY 2018-19 (Rs -28,826 Cr loss): JLR booked Rs 27,800 Cr goodwill impairment + diesel car demand fell in Europe + Brexit uncertainty hit JLR sales\n2. FY 2019-20 (Rs -12,071 Cr loss): COVID-19 started in Q4 FY20, JLR sales halted, raw material costs spiked\n3. FY 2020-21 (Rs -13,451 Cr loss): Full COVID year, global semiconductor chip shortage began, JLR factories stopped production for months\n4. FY 2021-22 (Rs -11,441 Cr loss): Chip shortage continued, JLR had 168,000+ undelivered cars due to chip supply, high commodity prices\n5. FY 2022-23 (Rs +2,414 Cr PROFIT): Chip supply normalised, JLR order book cleared, India standalone profitable (Rs +2,728 Cr), EV growth",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "loss_explanation"
+    }
+  },
+  {
+    "id": "tata_jlr_analysis",
+    "type": "context",
+    "text": "Tata Motors JLR (Jaguar Land Rover) Revenue Analysis:\n- FY 2015-16: GBP 22,208 Mn\n- FY 2016-17: GBP 24,339 Mn (peak — best JLR year)\n- FY 2017-18: GBP 25,786 Mn (highest ever JLR revenue)\n- FY 2018-19: GBP 24,214 Mn (fell due to diesel ban fears in Europe)\n- FY 2019-20: GBP 22,984 Mn (COVID impact Q4)\n- FY 2020-21: GBP 19,731 Mn (worst COVID year for JLR)\n- FY 2021-22: GBP 18,320 Mn (lowest — chip shortage halted production)\n- FY 2022-23: GBP 22,809 Mn (strong recovery, back to 2016 levels)\nJLR contributes ~70-75% of Tata Motors consolidated revenue when converted to INR.\nJLR profit/loss directly determines whether Tata Motors consolidated makes profit or loss.",
+    "metadata": {
+      "company": "Tata Motors",
+      "data_type": "jlr_analysis"
+    }
+  }
+]

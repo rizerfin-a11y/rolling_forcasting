@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+    r.run('revenue', 6)
+    ~~~~~^^^^^^^^^^^^^^
+  File "F:\financial_analyser\backend\models\rolling_forecast.py", line 35, in run
+    df = pd.DataFrame({'date': dates, 'value': values})
+  File "C:\Users\ROHITH\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 769, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy)
+  File "C:\Users\ROHITH\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\internals\construction.py", line 460, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, consolidate=copy)
+  File "C:\Users\ROHITH\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\internals\construction.py", line 113, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "C:\Users\ROHITH\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\internals\construction.py", line 643, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length

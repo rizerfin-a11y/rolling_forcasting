@@ -1,0 +1,60 @@
+
+===================
+> curl http://localhost:5000/api/health
+{
+  "message": "Rizer AI backend running",
+  "status": "ok"
+}
+
+===================
+> curl -X POST http://localhost:5000/api/drivers/calculate
+{
+  "result": {
+    "gross_profit": 4462.5,
+    "market_share": 3.75,
+    "net_profit": -1653.125,
+    "profit_margin": -12.965686274509805,
+    "revenue": 12750.0
+  },
+  "status": "success"
+}
+
+===================
+> curl http://localhost:5000/api/forecast/rolling?metric=revenue&periods=6
+ERROR: HTTP Error 500: INTERNAL SERVER ERROR
+
+===================
+> curl http://localhost:5000/api/data/live?ticker=TATAMOTORS.NS
+{
+  "data": {
+    "52w_high": NaN,
+    "52w_low": NaN,
+    "change_percent": 1.25,
+    "company_name": "Tata Motors",
+    "currency": "INR",
+    "effective_ticker": "TATAMOTORS.NS",
+    "exchange": "NSE",
+    "market_cap_crores": null,
+    "pe_ratio": null,
+    "price": 1043.6,
+    "quarterly_revenue": [],
+    "sector": null,
+    "ticker": "TATAMOTORS.NS",
+    "warning": "Using cached NSE data (Network Blocked)"
+  },
+  "status": "success"
+}
+
+===================
+> curl -X POST http://localhost:5000/api/ai/ask
+{
+  "data": {
+    "answer": "As we previously discussed, the specific financial data for 2024, including the revenue of Tata Motors, is not available to me at this time. However, I can provide some context and insights based on the company's historical performance.\n\nTo estimate the revenue of Tata Motors in 2024, I would consider the company's past trends and industry outlook. Assuming a moderate growth rate, I estimated the revenue for 2024 to be around \u20b916,500-\u20b917,500 crores, based on the trend between 2022 and 2023, and the company's financial performance in Q4 FY24.\n\nIt's worth noting that the profit before tax for the year ended March 31, 2024, is \u20b97,850.82 crores, which can give us an idea of the company's financial performance in 2024. Additionally, the passenger vehicle sales in Q4 FY24 were \u20b914,430.55 crores, which could be an indicator of the company's revenue performance in 2024.\n\nKey points to consider:\n\n* The revenue of Tata Motors in 2024 is estimated to be around \u20b916,500-\u20b917,500 crores, based on historical trends and industry outlook.\n* The profit before tax for the year ended March 31, 2024, is \u20b97,850.82 crores, which can provide insight into the company's financial performance.\n* The passenger vehicle sales in Q4 FY24 were \u20b914,430.55 crores, which could be an indicator of the company's revenue performance in 2024.\n* The actual revenue figure may vary based on various factors, including market conditions, competition, and the company's strategic initiatives.\n\nTo get a better understanding of the company's financial performance, I would recommend waiting for the official release of the annual report for the fiscal year 2024. This will provide a more accurate picture of the company's revenue and other financial metrics for the year.",
+    "confidence": "low",
+    "level_used": 4,
+    "model_used": "Groq llama-3.3-70b (best available)",
+    "relevance_score": 0.0,
+    "sources": []
+  },
+  "status": "success"
+}

@@ -1,0 +1,260 @@
+
+============================================================
+> curl http://localhost:5000/api/health
+============================================================
+{
+  "message": "Rizer AI backend running",
+  "status": "ok"
+}
+
+============================================================
+> curl http://localhost:5000/api/integrations/status
+============================================================
+{
+  "integrations": {
+    "hubspot": {
+      "configured": false,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "CRM"
+    },
+    "quickbooks": {
+      "configured": false,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "ERP"
+    },
+    "salesforce": {
+      "configured": false,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "CRM"
+    },
+    "tally": {
+      "configured": true,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "ERP"
+    },
+    "zoho_books": {
+      "configured": false,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "ERP"
+    },
+    "zoho_crm": {
+      "configured": false,
+      "last_records": 0,
+      "last_status": "never",
+      "last_sync": null,
+      "type": "CRM"
+    }
+  },
+  "status": "success"
+}
+
+============================================================
+> curl http://localhost:5000/api/forecast/rolling?metric=revenue&periods=6
+============================================================
+{
+  "forecast": {
+    "accuracy": {
+      "mape": 0,
+      "r2": 0.73,
+      "rmse": 0
+    },
+    "data_points_used": 24,
+    "festival_impact": "Q3 (Oct-Dec) shows 8.9% above average \u2014 Diwali effect detected",
+    "growth_rate": 21.54,
+    "model_used": "Prophet 50% + XGBoost 35% + Linear 15% ensemble",
+    "predictions": [
+      {
+        "ci_95_lower": 125.79,
+        "ci_95_upper": 180.69,
+        "ci_lower": 145.59,
+        "ci_upper": 145.62,
+        "period": "2026-04",
+        "value": 153.24
+      },
+      {
+        "ci_95_lower": 132.82,
+        "ci_95_upper": 187.72,
+        "ci_lower": 158.84,
+        "ci_upper": 158.94,
+        "period": "2026-05",
+        "value": 160.27
+      },
+      {
+        "ci_95_lower": 135.27,
+        "ci_95_upper": 190.16,
+        "ci_lower": 167.92,
+        "ci_upper": 168.12,
+        "period": "2026-06",
+        "value": 162.71
+      },
+      {
+        "ci_95_lower": 124.93,
+        "ci_95_upper": 179.82,
+        "ci_lower": 146.45,
+        "ci_upper": 146.73,
+        "period": "2026-07",
+        "value": 152.38
+      },
+      {
+        "ci_95_lower": 137.27,
+        "ci_95_upper": 192.17,
+        "ci_lower": 170.31,
+        "ci_upper": 170.75,
+        "period": "2026-08",
+        "value": 164.72
+      },
+      {
+        "ci_95_lower": 163.39,
+        "ci_95_upper": 218.28,
+        "ci_lower": 221.63,
+        "ci_upper": 222.38,
+        "period": "2026-09",
+        "value": 190.83
+      }
+    ]
+  },
+  "status": "success"
+}
+
+============================================================
+> curl -X POST http://localhost:5000/api/drivers/propagate
+============================================================
+{
+  "propagation": {
+    "all_metrics": {
+      "ebitda": 355.0,
+      "eps": -9837.5,
+      "gross_profit": 5355.0,
+      "market_share": 4.5,
+      "net_profit": -983.75,
+      "profit_margin": -6.43,
+      "revenue": 15300.0,
+      "roe": -21.43
+    },
+    "cascade_count": 8,
+    "changes": [
+      {
+        "change_pct": -40.49,
+        "from": -16531.25,
+        "metric": "eps",
+        "to": -9837.5
+      },
+      {
+        "change_pct": -166.05,
+        "from": -537.5,
+        "metric": "ebitda",
+        "to": 355.0
+      },
+      {
+        "change_pct": 20.0,
+        "from": 3.75,
+        "metric": "market_share",
+        "to": 4.5
+      },
+      {
+        "change_pct": -50.42,
+        "from": -12.97,
+        "metric": "profit_margin",
+        "to": -6.43
+      },
+      {
+        "change_pct": 20.0,
+        "from": 12750.0,
+        "metric": "revenue",
+        "to": 15300.0
+      },
+      {
+        "change_pct": -40.49,
+        "from": -1653.12,
+        "metric": "net_profit",
+        "to": -983.75
+      },
+      {
+        "change_pct": 20.0,
+        "from": 4462.5,
+        "metric": "gross_profit",
+        "to": 5355.0
+      },
+      {
+        "change_pct": -50.42,
+        "from": -43.22,
+        "metric": "roe",
+        "to": -21.43
+      }
+    ],
+    "driver_changed": "sales_volume",
+    "new_value": 180000.0,
+    "old_value": 150000,
+    "propagation_path": [
+      "sales_volume \u2192 revenue",
+      "sales_volume \u2192 market_share",
+      "sales_volume \u2192 gross_profit",
+      "sales_volume \u2192 revenue \u2192 net_profit",
+      "sales_volume \u2192 revenue \u2192 profit_margin",
+      "sales_volume \u2192 gross_profit \u2192 ebitda",
+      "sales_volume \u2192 revenue \u2192 net_profit \u2192 eps",
+      "sales_volume \u2192 revenue \u2192 net_profit \u2192 roe"
+    ],
+    "updated_metrics": {
+      "ebitda": {
+        "absolute_change": 892.5,
+        "new_value": 355.0,
+        "old_value": -537.5,
+        "percent_change": -166.05
+      },
+      "eps": {
+        "absolute_change": 6693.75,
+        "new_value": -9837.5,
+        "old_value": -16531.25,
+        "percent_change": -40.49
+      },
+      "gross_profit": {
+        "absolute_change": 892.5,
+        "new_value": 5355.0,
+        "old_value": 4462.5,
+        "percent_change": 20.0
+      },
+      "market_share": {
+        "absolute_change": 0.75,
+        "new_value": 4.5,
+        "old_value": 3.75,
+        "percent_change": 20.0
+      },
+      "net_profit": {
+        "absolute_change": 669.37,
+        "new_value": -983.75,
+        "old_value": -1653.12,
+        "percent_change": -40.49
+      },
+      "profit_margin": {
+        "absolute_change": 6.54,
+        "new_value": -6.43,
+        "old_value": -12.97,
+        "percent_change": -50.42
+      },
+      "revenue": {
+        "absolute_change": 2550.0,
+        "new_value": 15300.0,
+        "old_value": 12750.0,
+        "percent_change": 20.0
+      },
+      "roe": {
+        "absolute_change": 21.79,
+        "new_value": -21.43,
+        "old_value": -43.22,
+        "percent_change": -50.42
+      }
+    }
+  },
+  "status": "success"
+}

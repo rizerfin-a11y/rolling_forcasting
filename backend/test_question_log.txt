@@ -1,0 +1,13 @@
+Answer: To determine the total revenue in 2024, I'll refer to the available data. Unfortunately, I don't have the exact total revenue figure for 2024. However, I can provide some context and related information to help estimate the revenue.
+
+According to the annual report 2022-2023, the total revenue for the year ended March 31, 2022, was ₹16,988.45 crores, and for the year ended March 31, 2023, it was ₹16,181.42 crores.
+
+Additionally, I have data on the profit before tax for the year ended March 31, 2024, which is ₹7,850.82 crores. While this is not the same as total revenue, it can give us an idea of the company's financial performance in 2024.
+
+If I look at the trend between 2022 and 2023, the total revenue decreased by approximately 4.5%. Assuming a similar trend or a slight recovery, the total revenue in 2024 might be around ₹16,500-₹17,500 crores. However, please note that this is a rough estimate and not based on exact data.
+
+To get a more accurate estimate, I would need more information or data on the company's performance in 2024. If you have any additional context or questions, I'll do my best to provide a more accurate analysis.
+Level Used: 4
+Model Used: Groq llama-3.3-70b (best available)
+Confidence: medium
+Sources: ['tata-motor-IAR-2023-24.pdf', 'annual-report-2022-2023.pdf', 'financial-results-standalone-q4fy22.pdf']

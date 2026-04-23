@@ -1,0 +1,1044 @@
+
+Training AI on folder: F:\report_anayser\tata rooling forcasting
+Company: Tata Motors
+
+Found 196 files to process:
+  - 23.-Tata-Motors-SA-Proprietary-Limited-1.pdf
+  - annual-report-2022-2023.pdf
+  - April-June_2020.pdf
+  - April-June_2023.pdf
+  - April-June_2024.pdf
+  - April-June_2025.pdf
+  - April-_June_2021.pdf
+  - April-_June_2022.pdf
+  - April_2014.pdf
+  - April_2015.pdf
+  - April_2016.pdf
+  - April_2017.pdf
+  - April_2019.pdf
+  - August_2014.pdf
+  - August_2015.pdf
+  - August_2016.pdf
+  - August_2017.pdf
+  - August_2019.pdf
+  - December_2014.pdf
+  - December_2015.pdf
+  - December_2017.pdf
+  - December_2018.pdf
+  - December_2019.pdf
+  - faqs-cancellation-of-a-ordinary-shares.pdf
+  - February_2014.pdf
+  - February_2015.pdf
+  - February_2018.pdf
+  - February_2019.pdf
+  - February_2020.pdf
+  - financial-results-standalone-q4fy22.pdf
+  - financial-results-standalone-q4fy23.pdf
+  - Financial-statistics-Revenue.pdf
+  - flash-figure-apr-2017.pdf
+  - flash-figure-apr19.pdf
+  - flash-figure-april-2015.pdf
+  - flash-figure-april-2016.pdf
+  - flash-figure-april-2018.pdf
+  - flash-figure-aug-2018.pdf
+  - flash-figure-aug19.pdf
+  - flash-figure-august-2015.pdf
+  - flash-figure-august-2016.pdf
+  - flash-figure-august-2017.pdf
+  - flash-figure-dec-2018.pdf
+  - flash-figure-december-2015.pdf
+  - flash-figure-december-2016.pdf
+  - flash-figure-december-2017.pdf
+  - flash-figure-feb19.pdf
+  - flash-figure-february-2015.pdf
+  - flash-figure-february-2016.pdf
+  - flash-figure-february-2017.pdf
+  - flash-figure-february-2018.pdf
+  - flash-figure-jan-2017.pdf
+  - flash-figure-jan19.pdf
+  - flash-figure-january-2015.pdf
+  - flash-figure-january-2016.pdf
+  - flash-figure-january-2018.pdf
+  - flash-figure-jul19.pdf
+  - flash-figure-july-2015-1.pdf
+  - flash-figure-july-2016.pdf
+  - flash-figure-july-2017.pdf
+  - flash-figure-july-2018.pdf
+  - flash-figure-june-2015.pdf
+  - flash-figure-june-2016.pdf
+  - flash-figure-june-2017.pdf
+  - flash-figure-june-2018.pdf
+  - flash-figure-june19.pdf
+  - flash-figure-mar19.pdf
+  - flash-figure-march-2015.pdf
+  - flash-figure-march-2016.pdf
+  - flash-figure-march-2017.pdf
+  - flash-figure-march-2018.pdf
+  - flash-figure-may-2015.pdf
+  - flash-figure-may-2016.pdf
+  - flash-figure-may-2017.pdf
+  - flash-figure-may-2018.pdf
+  - flash-figure-may19.pdf
+  - flash-figure-november-2015.pdf
+  - flash-figure-november-2016.pdf
+  - flash-figure-november-2017.pdf
+  - flash-figure-october-2015-1.pdf
+  - flash-figure-october-2016.pdf
+  - flash-figure-october-2017.pdf
+  - flash-figure-sep-2018.pdf
+  - flash-figure-sep19.pdf
+  - flash-figure-september-2015.pdf
+  - flash-figure-september-2016-1.pdf
+  - flash-figure-september-2017.pdf
+  - flash-figures-apr-jun-2020-1.pdf
+  - flash-figures-apr-jun-2021.pdf
+  - flash-figures-apr-jun-2022.pdf
+  - flash-figures-apr-jun-2023.pdf
+  - flash-figures-dec-19.pdf
+  - flash-figures-feb-2020.pdf
+  - flash-figures-jan-2020.pdf
+  - flash-figures-jan-mar-2021.pdf
+  - flash-figures-jan-mar-2022.pdf
+  - flash-figures-jan-mar-2023.pdf
+  - flash-figures-jul-sep-2020.pdf
+  - flash-figures-jul-sep-2021.pdf
+  - flash-figures-jul-sep-2022.pdf
+  - flash-figures-mar-2020.pdf
+  - flash-figures-nov-19.pdf
+  - flash-figures-oct-19.pdf
+  - flash-figures-oct-dec-2020.pdf
+  - flash-figures-oct-dec-2021.pdf
+  - flash-figures-oct-dec-2022.pdf
+  - flash-figures-oct-dec-2023.pdf
+  - January-March_2021.pdf
+  - January-March_2022.pdf
+  - January-March_2023.pdf
+  - January-March_2024.pdf
+  - January-March_2025.pdf
+  - January_2014.pdf
+  - January_2016.pdf
+  - January_2017.pdf
+  - January_2018.pdf
+  - January_2019.pdf
+  - January_2020.pdf
+  - JLR-Global-Sales-Q1-FY26-vF.pdf
+  - JLR-historic-volumes-file-Q1-FY26 (1).xlsx
+  - JLR-historic-volumes-file-Q1-FY26.xlsx
+  - jlr-volumes-file-fy26-q2.xlsx
+  - July-September_2020.pdf
+  - July-September_2021.pdf
+  - July-September_2022.pdf
+  - July-September_2023.pdf
+  - July-September_2024.pdf
+  - July_2014.pdf
+  - July_2015.pdf
+  - July_2016.pdf
+  - July_2017.pdf
+  - July_2018.pdf
+  - July_2019.pdf
+  - June_2014.pdf
+  - June_2015.pdf
+  - June_2016 (1).pdf
+  - June_2016.pdf
+  - June_2017.pdf
+  - June_2018.pdf
+  - June_2019.pdf
+  - March_2014.pdf
+  - March_2016.pdf
+  - March_2018.pdf
+  - March_2019.pdf
+  - March_2020.pdf
+  - May_2014.pdf
+  - May_2016 (1).pdf
+  - May_2016.pdf
+  - May_2017.pdf
+  - May_2018.pdf
+  - May_2019.pdf
+  - nov-2018.pdf
+  - November_2014.pdf
+  - November_2016.pdf
+  - November_2017.pdf
+  - November_2018.pdf
+  - November_2019.pdf
+  - oct-2018.pdf
+  - October-December_2020.pdf
+  - October-December_2021.pdf
+  - October-December_2022.pdf
+  - October-December_2023.pdf
+  - October-December_2024.pdf
+  - October_2014.pdf
+  - October_2015.pdf
+  - October_2016.pdf
+  - October_2017.pdf
+  - October_2018.pdf
+  - October_2019.pdf
+  - q4fy24-TML-Consol-Results-Mar-24.pdf
+  - September_2014.pdf
+  - September_2016.pdf
+  - September_2017.pdf
+  - September_2018.pdf
+  - September_2019.pdf
+  - SIAM-Apr-Jun-2024.pdf
+  - SIAM-April-Jun25.pdf
+  - SIAM-Jan-Mar-2025.pdf
+  - SIAM-July-Sept-2024.pdf
+  - SIAM-New-format-Jan-Mar-24.pdf
+  - SIAM-New-format-Jan-Mar-26.xlsx
+  - siam-new-format-jul-sep-2025.pdf
+  - SIAM-New-format-Oct-Dec24.pdf
+  - SIAM-sheet-upload-PV-Oct-Dec-25.xlsx
+  - Tata Motors Investor presentation Q3FY26 (1).pdf
+  - Tata Motors Investor presentation Q3FY26.pdf
+  - Tata Motors Passenger Vehicles Group Q3 FY26 Press Release (1).pdf
+  - Tata Motors Passenger Vehicles Group Q3 FY26 Press Release (2).pdf
+  - Tata Motors Passenger Vehicles Group Q3 FY26 Press Release.pdf
+  - tata-motor-IAR-2023-24.pdf
+  - Tata-Motors-Sales-Release-aug-2025.pdf
+  - Tata-Motors-Thailand-Limited-2023.pdf
+  - TataMotors-Flash-Figures-Jul-Sept-23.pdf
+  - TMPVL Consolidated Results Q3 FY 26 (1).pdf
+  - TMPVL Consolidated Results Q3 FY 26.pdf
+  - TMPVL Standalone Results Q3 FY 26.pdf
+
+Processing: 23.-Tata-Motors-SA-Proprietary-Limited-1.pdf
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+  ✗ No text extracted from 23.-Tata-Motors-SA-Proprietary-Limited-1.pdf
+
+Processing: annual-report-2022-2023.pdf
+  ✓ Extracted 296884 words from PDF
+  ✓ Created 330 chunks
+
+Processing: April-June_2020.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April-June_2023.pdf
+  ✓ Extracted 474 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April-June_2024.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April-June_2025.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April-_June_2021.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April-_June_2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: April_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: August_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: August_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: August_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: August_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: August_2019.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: December_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: December_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: December_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: December_2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: December_2019.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: faqs-cancellation-of-a-ordinary-shares.pdf
+  ✓ Extracted 2007 words from PDF
+  ✓ Created 3 chunks
+
+Processing: February_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: February_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: February_2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: February_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: February_2020.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: financial-results-standalone-q4fy22.pdf
+  ✓ Extracted 6098 words from PDF
+  ✓ Created 7 chunks
+
+Processing: financial-results-standalone-q4fy23.pdf
+  ✗ No text extracted from financial-results-standalone-q4fy23.pdf
+
+Processing: Financial-statistics-Revenue.pdf
+  ✓ Extracted 880 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-apr-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-apr19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-april-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-april-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-april-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-aug-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-aug19.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-august-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-august-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-august-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-dec-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-december-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-december-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-december-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-feb19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-february-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-february-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-february-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-february-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-jan-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-jan19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-january-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-january-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-january-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-jul19.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-july-2015-1.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-july-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-july-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-july-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-june-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-june-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-june-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-june-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-june19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-mar19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-march-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-march-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-march-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-march-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-may-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-may-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-may-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-may-2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-may19.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-november-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-november-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-november-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-october-2015-1.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-october-2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-october-2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-sep-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-sep19.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-september-2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-september-2016-1.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figure-september-2017.pdf
+  ✓ Extracted 541 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-apr-jun-2020-1.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-apr-jun-2021.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-apr-jun-2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-apr-jun-2023.pdf
+  ✓ Extracted 474 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-dec-19.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-feb-2020.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jan-2020.pdf
+  ✓ Extracted 442 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jan-mar-2021.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jan-mar-2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jan-mar-2023.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jul-sep-2020.pdf
+  ✓ Extracted 464 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jul-sep-2021.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-jul-sep-2022.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-mar-2020.pdf
+  ✓ Extracted 1083 words from PDF
+  ✓ Created 2 chunks
+
+Processing: flash-figures-nov-19.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-oct-19.pdf
+  ✓ Extracted 431 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-oct-dec-2020.pdf
+  ✓ Extracted 457 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-oct-dec-2021.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-oct-dec-2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: flash-figures-oct-dec-2023.pdf
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+  ✓ Extracted 475 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January-March_2021.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January-March_2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January-March_2023.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January-March_2024.pdf
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+  ✓ Extracted 475 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January-March_2025.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: January_2020.pdf
+  ✓ Extracted 442 words from PDF
+  ✓ Created 1 chunks
+
+Processing: JLR-Global-Sales-Q1-FY26-vF.pdf
+  ✓ Extracted 620 words from PDF
+  ✓ Created 1 chunks
+
+Processing: JLR-historic-volumes-file-Q1-FY26 (1).xlsx
+  ✓ Extracted 14078 words from Excel/CSV
+  ✓ Created 16 chunks
+
+Processing: JLR-historic-volumes-file-Q1-FY26.xlsx
+  ✓ Extracted 14078 words from Excel/CSV
+  ✓ Created 16 chunks
+
+Processing: jlr-volumes-file-fy26-q2.xlsx
+  ✓ Extracted 14092 words from Excel/CSV
+  ✓ Created 16 chunks
+
+Processing: July-September_2020.pdf
+  ✓ Extracted 464 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July-September_2021.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July-September_2022.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July-September_2023.pdf
+  ✓ Extracted 700 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July-September_2024.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: July_2019.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2016 (1).pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: June_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: March_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: March_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: March_2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: March_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: March_2020.pdf
+  ✓ Extracted 1083 words from PDF
+  ✓ Created 2 chunks
+
+Processing: May_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: May_2016 (1).pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: May_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: May_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: May_2018.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: May_2019.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: nov-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: November_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: November_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: November_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: November_2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: November_2019.pdf
+  ✓ Extracted 443 words from PDF
+  ✓ Created 1 chunks
+
+Processing: oct-2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October-December_2020.pdf
+  ✓ Extracted 457 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October-December_2021.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October-December_2022.pdf
+  ✓ Extracted 476 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October-December_2023.pdf
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+  ✓ Extracted 475 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October-December_2024.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2015.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2017.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: October_2019.pdf
+  ✓ Extracted 431 words from PDF
+  ✓ Created 1 chunks
+
+Processing: q4fy24-TML-Consol-Results-Mar-24.pdf
+  ✓ Extracted 7611 words from PDF
+  ✓ Created 9 chunks
+
+Processing: September_2014.pdf
+  ✓ Extracted 548 words from PDF
+  ✓ Created 1 chunks
+
+Processing: September_2016.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: September_2017.pdf
+  ✓ Extracted 541 words from PDF
+  ✓ Created 1 chunks
+
+Processing: September_2018.pdf
+  ✓ Extracted 538 words from PDF
+  ✓ Created 1 chunks
+
+Processing: September_2019.pdf
+  ✓ Extracted 539 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-Apr-Jun-2024.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-April-Jun25.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-Jan-Mar-2025.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-July-Sept-2024.pdf
+  ✓ Extracted 526 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-New-format-Jan-Mar-24.pdf
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+  ✓ Extracted 475 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-New-format-Jan-Mar-26.xlsx
+  ✓ Extracted 160 words from Excel/CSV
+  ✓ Created 1 chunks
+
+Processing: siam-new-format-jul-sep-2025.pdf
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+MuPDF error: format error: No common ancestor in structure tree
+
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-New-format-Oct-Dec24.pdf
+  ✓ Extracted 477 words from PDF
+  ✓ Created 1 chunks
+
+Processing: SIAM-sheet-upload-PV-Oct-Dec-25.xlsx
+  ✓ Extracted 160 words from Excel/CSV
+  ✓ Created 1 chunks
+
+Processing: Tata Motors Investor presentation Q3FY26 (1).pdf
+  ✓ Extracted 8498 words from PDF
+  ✓ Created 10 chunks
+
+Processing: Tata Motors Investor presentation Q3FY26.pdf
+  ✓ Extracted 8498 words from PDF
+  ✓ Created 10 chunks
+
+Processing: Tata Motors Passenger Vehicles Group Q3 FY26 Press Release (1).pdf
+  ✓ Extracted 2307 words from PDF
+  ✓ Created 3 chunks
+
+Processing: Tata Motors Passenger Vehicles Group Q3 FY26 Press Release (2).pdf
+  ✓ Extracted 2307 words from PDF
+  ✓ Created 3 chunks
+
+Processing: Tata Motors Passenger Vehicles Group Q3 FY26 Press Release.pdf
+  ✓ Extracted 2307 words from PDF
+  ✓ Created 3 chunks
+
+Processing: tata-motor-IAR-2023-24.pdf
+  ✓ Extracted 273879 words from PDF
+  ✓ Created 305 chunks
+
+Processing: Tata-Motors-Sales-Release-aug-2025.pdf
+  ✓ Extracted 475 words from PDF
+  ✓ Created 1 chunks
+
+Processing: Tata-Motors-Thailand-Limited-2023.pdf
+  ✗ No text extracted from Tata-Motors-Thailand-Limited-2023.pdf
+
+Processing: TataMotors-Flash-Figures-Jul-Sept-23.pdf
+  ✓ Extracted 700 words from PDF
+  ✓ Created 1 chunks
+
+Processing: TMPVL Consolidated Results Q3 FY 26 (1).pdf
+  ✓ Extracted 6329 words from PDF
+  ✓ Created 8 chunks
+
+Processing: TMPVL Consolidated Results Q3 FY 26.pdf
+  ✓ Extracted 6329 words from PDF
+  ✓ Created 8 chunks
+
+Processing: TMPVL Standalone Results Q3 FY 26.pdf
+  ✓ Extracted 4591 words from PDF
+  ✓ Created 6 chunks
+
+✓ Saved 932 chunks to F:\financial_analyser\backend\my_knowledge_base.json
+
+==================================================
+PROCESSING SUMMARY
+==================================================
+✓ Processed: 193 files
+✗ Failed:    3 files
+Total chunks created: 932
+
+Failed files:
+  - 23.-Tata-Motors-SA-Proprietary-Limited-1.pdf
+  - financial-results-standalone-q4fy23.pdf
+  - Tata-Motors-Thailand-Limited-2023.pdf
+
+==================================================
+Loading into ChromaDB vector store...
+==================================================
+
+Time taken: 307.78 seconds
+Total chunks in ChromaDB: 932

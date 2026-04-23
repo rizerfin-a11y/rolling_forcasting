@@ -1,0 +1,35 @@
+{
+  "data": {
+    "52w_high": 248.9,
+    "52w_low": 167.18,
+    "change_percent": -1.62,
+    "company_name": "Toyota Motor Corporation",
+    "currency": "USD",
+    "effective_ticker": "TM",
+    "market_cap_crores": 26154.09,
+    "note": "Data via TM",
+    "pe_ratio": 11.242017,
+    "price": 200.67,
+    "quarterly_revenue": [
+      {
+        "period": "2025-12-31",
+        "revenue_crores": 1106544.7
+      },
+      {
+        "period": "2025-09-30",
+        "revenue_crores": 1040858.9
+      },
+      {
+        "period": "2025-06-30",
+        "revenue_crores": 1005751.3
+      },
+      {
+        "period": "2025-03-31",
+        "revenue_crores": 1003096.6
+      }
+    ],
+    "sector": "Consumer Cyclical",
+    "ticker": "TATAMOTORS.NS"
+  },
+  "status": "success"
+}
